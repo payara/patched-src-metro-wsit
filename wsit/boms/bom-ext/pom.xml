@@ -18,7 +18,7 @@
         <groupId>org.glassfish.metro</groupId>
         <artifactId>metro-bom</artifactId>
         <relativePath>../bom/pom.xml</relativePath>
-        <version>2.4.8.payara-p2</version>
+        <version>2.4.8.payara-p4</version>
     </parent>
 
     <groupId>org.glassfish.metro</groupId>
@@ -37,7 +37,7 @@
         <resolver.version>20050927</resolver.version>
 
         <!-- CQ: #22139 -->
-        <santuario.version>2.2.3</santuario.version>
+        <santuario.version>2.3.4</santuario.version>
         <!-- CQ: #22187 -->
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <slf4j-simple.version>1.7.30</slf4j-simple.version>
